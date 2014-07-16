@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "edcdd46029fbb6f9fe3d0e7b08bf7b52",
+    "hash": "896af45df26d1367e5afa4cea5c2f1bc",
     "packages": [
         {
             "name": "cakephp/cakephp",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cakephp/cakephp.git",
-                "reference": "c9df9b84ff60b46275520f754fa91913cc1cc993"
+                "reference": "4733a8eb8bebfa4ac957568170c21173ca21e826"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cakephp/cakephp/zipball/c9df9b84ff60b46275520f754fa91913cc1cc993",
-                "reference": "c9df9b84ff60b46275520f754fa91913cc1cc993",
+                "url": "https://api.github.com/repos/cakephp/cakephp/zipball/4733a8eb8bebfa4ac957568170c21173ca21e826",
+                "reference": "4733a8eb8bebfa4ac957568170c21173ca21e826",
                 "shasum": ""
             },
             "require": {
@@ -53,7 +53,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2014-07-14 21:50:47"
+            "time": "2014-07-16 02:24:09"
         },
         {
             "name": "ircmaxell/password-compat",
@@ -237,7 +237,7 @@
         "cakephp/cakephp": 20
     },
     "platform": {
-        "php": ">=5.4.19"
+        "php": ">=5.4"
     },
     "platform-dev": [
 

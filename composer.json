@@ -1,11 +1,11 @@
 {
-	"name": "cakephp/app",
-	"description": "CakePHP skeleton app",
-	"homepage": "http://cakephp.org",
+	"name": "128io/domain-tracker",
+	"description": "Domain Tracker",
+	"homepage": "http://domain-tracker.128.io",
 	"type": "project",
 	"license": "MIT",
 	"require": {
-		"php": ">=5.4.19",
+		"php": ">=5.4",
 		"cakephp/cakephp": "3.0.*-dev",
 		"mobiledetect/mobiledetectlib": "2.*"
 	},
